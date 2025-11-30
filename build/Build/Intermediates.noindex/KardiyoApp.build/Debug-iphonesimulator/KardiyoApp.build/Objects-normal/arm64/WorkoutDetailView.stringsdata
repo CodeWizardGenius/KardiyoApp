@@ -1,0 +1,40 @@
+{
+  "source": "/Users/baris.karapelit/KardiyoApp/Views/WorkoutDetailView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Tebrikler! Bu günü tamamladınız 🎉",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 79
+        }
+      },
+      {
+        "comment": "",
+        "key": "Önemli Notlar",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 119
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld set x %lld tekrar",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 181
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld dakika",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 227
+        }
+      }
+    ]
+  },
+  "version": 1
+}

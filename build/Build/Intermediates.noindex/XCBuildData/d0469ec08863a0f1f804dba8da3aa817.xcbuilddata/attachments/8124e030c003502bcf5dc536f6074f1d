@@ -1,0 +1,79 @@
+{
+  "" : {
+    "diagnostics" : "/Users/baris.karapelit/KardiyoApp/build/Build/Intermediates.noindex/KardiyoApp.build/Debug-iphonesimulator/KardiyoApp.build/Objects-normal/arm64/KardiyoApp-primary.dia",
+    "emit-module-dependencies" : "/Users/baris.karapelit/KardiyoApp/build/Build/Intermediates.noindex/KardiyoApp.build/Debug-iphonesimulator/KardiyoApp.build/Objects-normal/arm64/KardiyoApp-primary-emit-module.d",
+    "emit-module-diagnostics" : "/Users/baris.karapelit/KardiyoApp/build/Build/Intermediates.noindex/KardiyoApp.build/Debug-iphonesimulator/KardiyoApp.build/Objects-normal/arm64/KardiyoApp-primary-emit-module.dia",
+    "pch" : "/Users/baris.karapelit/KardiyoApp/build/Build/Intermediates.noindex/KardiyoApp.build/Debug-iphonesimulator/KardiyoApp.build/Objects-normal/arm64/KardiyoApp-primary-Bridging-header.pch",
+    "swift-dependencies" : "/Users/baris.karapelit/KardiyoApp/build/Build/Intermediates.noindex/KardiyoApp.build/Debug-iphonesimulator/KardiyoApp.build/Objects-normal/arm64/KardiyoApp-primary.swiftdeps"
+  },
+  "/Users/baris.karapelit/KardiyoApp/KardiyoApp.swift" : {
+    "const-values" : "/Users/baris.karapelit/KardiyoApp/build/Build/Intermediates.noindex/KardiyoApp.build/Debug-iphonesimulator/KardiyoApp.build/Objects-normal/arm64/KardiyoApp.swiftconstvalues",
+    "dependencies" : "/Users/baris.karapelit/KardiyoApp/build/Build/Intermediates.noindex/KardiyoApp.build/Debug-iphonesimulator/KardiyoApp.build/Objects-normal/arm64/KardiyoApp.d",
+    "diagnostics" : "/Users/baris.karapelit/KardiyoApp/build/Build/Intermediates.noindex/KardiyoApp.build/Debug-iphonesimulator/KardiyoApp.build/Objects-normal/arm64/KardiyoApp.dia",
+    "index-unit-output-path" : "/KardiyoApp.build/Debug-iphonesimulator/KardiyoApp.build/Objects-normal/arm64/KardiyoApp.o",
+    "llvm-bc" : "/Users/baris.karapelit/KardiyoApp/build/Build/Intermediates.noindex/KardiyoApp.build/Debug-iphonesimulator/KardiyoApp.build/Objects-normal/arm64/KardiyoApp.bc",
+    "object" : "/Users/baris.karapelit/KardiyoApp/build/Build/Intermediates.noindex/KardiyoApp.build/Debug-iphonesimulator/KardiyoApp.build/Objects-normal/arm64/KardiyoApp.o",
+    "swift-dependencies" : "/Users/baris.karapelit/KardiyoApp/build/Build/Intermediates.noindex/KardiyoApp.build/Debug-iphonesimulator/KardiyoApp.build/Objects-normal/arm64/KardiyoApp.swiftdeps",
+    "swiftmodule" : "/Users/baris.karapelit/KardiyoApp/build/Build/Intermediates.noindex/KardiyoApp.build/Debug-iphonesimulator/KardiyoApp.build/Objects-normal/arm64/KardiyoApp~partial.swiftmodule"
+  },
+  "/Users/baris.karapelit/KardiyoApp/Managers/WorkoutManager.swift" : {
+    "const-values" : "/Users/baris.karapelit/KardiyoApp/build/Build/Intermediates.noindex/KardiyoApp.build/Debug-iphonesimulator/KardiyoApp.build/Objects-normal/arm64/WorkoutManager.swiftconstvalues",
+    "dependencies" : "/Users/baris.karapelit/KardiyoApp/build/Build/Intermediates.noindex/KardiyoApp.build/Debug-iphonesimulator/KardiyoApp.build/Objects-normal/arm64/WorkoutManager.d",
+    "diagnostics" : "/Users/baris.karapelit/KardiyoApp/build/Build/Intermediates.noindex/KardiyoApp.build/Debug-iphonesimulator/KardiyoApp.build/Objects-normal/arm64/WorkoutManager.dia",
+    "index-unit-output-path" : "/KardiyoApp.build/Debug-iphonesimulator/KardiyoApp.build/Objects-normal/arm64/WorkoutManager.o",
+    "llvm-bc" : "/Users/baris.karapelit/KardiyoApp/build/Build/Intermediates.noindex/KardiyoApp.build/Debug-iphonesimulator/KardiyoApp.build/Objects-normal/arm64/WorkoutManager.bc",
+    "object" : "/Users/baris.karapelit/KardiyoApp/build/Build/Intermediates.noindex/KardiyoApp.build/Debug-iphonesimulator/KardiyoApp.build/Objects-normal/arm64/WorkoutManager.o",
+    "swift-dependencies" : "/Users/baris.karapelit/KardiyoApp/build/Build/Intermediates.noindex/KardiyoApp.build/Debug-iphonesimulator/KardiyoApp.build/Objects-normal/arm64/WorkoutManager.swiftdeps",
+    "swiftmodule" : "/Users/baris.karapelit/KardiyoApp/build/Build/Intermediates.noindex/KardiyoApp.build/Debug-iphonesimulator/KardiyoApp.build/Objects-normal/arm64/WorkoutManager~partial.swiftmodule"
+  },
+  "/Users/baris.karapelit/KardiyoApp/Models/WorkoutData.swift" : {
+    "const-values" : "/Users/baris.karapelit/KardiyoApp/build/Build/Intermediates.noindex/KardiyoApp.build/Debug-iphonesimulator/KardiyoApp.build/Objects-normal/arm64/WorkoutData.swiftconstvalues",
+    "dependencies" : "/Users/baris.karapelit/KardiyoApp/build/Build/Intermediates.noindex/KardiyoApp.build/Debug-iphonesimulator/KardiyoApp.build/Objects-normal/arm64/WorkoutData.d",
+    "diagnostics" : "/Users/baris.karapelit/KardiyoApp/build/Build/Intermediates.noindex/KardiyoApp.build/Debug-iphonesimulator/KardiyoApp.build/Objects-normal/arm64/WorkoutData.dia",
+    "index-unit-output-path" : "/KardiyoApp.build/Debug-iphonesimulator/KardiyoApp.build/Objects-normal/arm64/WorkoutData.o",
+    "llvm-bc" : "/Users/baris.karapelit/KardiyoApp/build/Build/Intermediates.noindex/KardiyoApp.build/Debug-iphonesimulator/KardiyoApp.build/Objects-normal/arm64/WorkoutData.bc",
+    "object" : "/Users/baris.karapelit/KardiyoApp/build/Build/Intermediates.noindex/KardiyoApp.build/Debug-iphonesimulator/KardiyoApp.build/Objects-normal/arm64/WorkoutData.o",
+    "swift-dependencies" : "/Users/baris.karapelit/KardiyoApp/build/Build/Intermediates.noindex/KardiyoApp.build/Debug-iphonesimulator/KardiyoApp.build/Objects-normal/arm64/WorkoutData.swiftdeps",
+    "swiftmodule" : "/Users/baris.karapelit/KardiyoApp/build/Build/Intermediates.noindex/KardiyoApp.build/Debug-iphonesimulator/KardiyoApp.build/Objects-normal/arm64/WorkoutData~partial.swiftmodule"
+  },
+  "/Users/baris.karapelit/KardiyoApp/Models/WorkoutModels.swift" : {
+    "const-values" : "/Users/baris.karapelit/KardiyoApp/build/Build/Intermediates.noindex/KardiyoApp.build/Debug-iphonesimulator/KardiyoApp.build/Objects-normal/arm64/WorkoutModels.swiftconstvalues",
+    "dependencies" : "/Users/baris.karapelit/KardiyoApp/build/Build/Intermediates.noindex/KardiyoApp.build/Debug-iphonesimulator/KardiyoApp.build/Objects-normal/arm64/WorkoutModels.d",
+    "diagnostics" : "/Users/baris.karapelit/KardiyoApp/build/Build/Intermediates.noindex/KardiyoApp.build/Debug-iphonesimulator/KardiyoApp.build/Objects-normal/arm64/WorkoutModels.dia",
+    "index-unit-output-path" : "/KardiyoApp.build/Debug-iphonesimulator/KardiyoApp.build/Objects-normal/arm64/WorkoutModels.o",
+    "llvm-bc" : "/Users/baris.karapelit/KardiyoApp/build/Build/Intermediates.noindex/KardiyoApp.build/Debug-iphonesimulator/KardiyoApp.build/Objects-normal/arm64/WorkoutModels.bc",
+    "object" : "/Users/baris.karapelit/KardiyoApp/build/Build/Intermediates.noindex/KardiyoApp.build/Debug-iphonesimulator/KardiyoApp.build/Objects-normal/arm64/WorkoutModels.o",
+    "swift-dependencies" : "/Users/baris.karapelit/KardiyoApp/build/Build/Intermediates.noindex/KardiyoApp.build/Debug-iphonesimulator/KardiyoApp.build/Objects-normal/arm64/WorkoutModels.swiftdeps",
+    "swiftmodule" : "/Users/baris.karapelit/KardiyoApp/build/Build/Intermediates.noindex/KardiyoApp.build/Debug-iphonesimulator/KardiyoApp.build/Objects-normal/arm64/WorkoutModels~partial.swiftmodule"
+  },
+  "/Users/baris.karapelit/KardiyoApp/Views/ContentView.swift" : {
+    "const-values" : "/Users/baris.karapelit/KardiyoApp/build/Build/Intermediates.noindex/KardiyoApp.build/Debug-iphonesimulator/KardiyoApp.build/Objects-normal/arm64/ContentView.swiftconstvalues",
+    "dependencies" : "/Users/baris.karapelit/KardiyoApp/build/Build/Intermediates.noindex/KardiyoApp.build/Debug-iphonesimulator/KardiyoApp.build/Objects-normal/arm64/ContentView.d",
+    "diagnostics" : "/Users/baris.karapelit/KardiyoApp/build/Build/Intermediates.noindex/KardiyoApp.build/Debug-iphonesimulator/KardiyoApp.build/Objects-normal/arm64/ContentView.dia",
+    "index-unit-output-path" : "/KardiyoApp.build/Debug-iphonesimulator/KardiyoApp.build/Objects-normal/arm64/ContentView.o",
+    "llvm-bc" : "/Users/baris.karapelit/KardiyoApp/build/Build/Intermediates.noindex/KardiyoApp.build/Debug-iphonesimulator/KardiyoApp.build/Objects-normal/arm64/ContentView.bc",
+    "object" : "/Users/baris.karapelit/KardiyoApp/build/Build/Intermediates.noindex/KardiyoApp.build/Debug-iphonesimulator/KardiyoApp.build/Objects-normal/arm64/ContentView.o",
+    "swift-dependencies" : "/Users/baris.karapelit/KardiyoApp/build/Build/Intermediates.noindex/KardiyoApp.build/Debug-iphonesimulator/KardiyoApp.build/Objects-normal/arm64/ContentView.swiftdeps",
+    "swiftmodule" : "/Users/baris.karapelit/KardiyoApp/build/Build/Intermediates.noindex/KardiyoApp.build/Debug-iphonesimulator/KardiyoApp.build/Objects-normal/arm64/ContentView~partial.swiftmodule"
+  },
+  "/Users/baris.karapelit/KardiyoApp/Views/WorkoutDetailView.swift" : {
+    "const-values" : "/Users/baris.karapelit/KardiyoApp/build/Build/Intermediates.noindex/KardiyoApp.build/Debug-iphonesimulator/KardiyoApp.build/Objects-normal/arm64/WorkoutDetailView.swiftconstvalues",
+    "dependencies" : "/Users/baris.karapelit/KardiyoApp/build/Build/Intermediates.noindex/KardiyoApp.build/Debug-iphonesimulator/KardiyoApp.build/Objects-normal/arm64/WorkoutDetailView.d",
+    "diagnostics" : "/Users/baris.karapelit/KardiyoApp/build/Build/Intermediates.noindex/KardiyoApp.build/Debug-iphonesimulator/KardiyoApp.build/Objects-normal/arm64/WorkoutDetailView.dia",
+    "index-unit-output-path" : "/KardiyoApp.build/Debug-iphonesimulator/KardiyoApp.build/Objects-normal/arm64/WorkoutDetailView.o",
+    "llvm-bc" : "/Users/baris.karapelit/KardiyoApp/build/Build/Intermediates.noindex/KardiyoApp.build/Debug-iphonesimulator/KardiyoApp.build/Objects-normal/arm64/WorkoutDetailView.bc",
+    "object" : "/Users/baris.karapelit/KardiyoApp/build/Build/Intermediates.noindex/KardiyoApp.build/Debug-iphonesimulator/KardiyoApp.build/Objects-normal/arm64/WorkoutDetailView.o",
+    "swift-dependencies" : "/Users/baris.karapelit/KardiyoApp/build/Build/Intermediates.noindex/KardiyoApp.build/Debug-iphonesimulator/KardiyoApp.build/Objects-normal/arm64/WorkoutDetailView.swiftdeps",
+    "swiftmodule" : "/Users/baris.karapelit/KardiyoApp/build/Build/Intermediates.noindex/KardiyoApp.build/Debug-iphonesimulator/KardiyoApp.build/Objects-normal/arm64/WorkoutDetailView~partial.swiftmodule"
+  },
+  "/Users/baris.karapelit/KardiyoApp/build/Build/Intermediates.noindex/KardiyoApp.build/Debug-iphonesimulator/KardiyoApp.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+    "const-values" : "/Users/baris.karapelit/KardiyoApp/build/Build/Intermediates.noindex/KardiyoApp.build/Debug-iphonesimulator/KardiyoApp.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftconstvalues",
+    "dependencies" : "/Users/baris.karapelit/KardiyoApp/build/Build/Intermediates.noindex/KardiyoApp.build/Debug-iphonesimulator/KardiyoApp.build/Objects-normal/arm64/GeneratedAssetSymbols.d",
+    "diagnostics" : "/Users/baris.karapelit/KardiyoApp/build/Build/Intermediates.noindex/KardiyoApp.build/Debug-iphonesimulator/KardiyoApp.build/Objects-normal/arm64/GeneratedAssetSymbols.dia",
+    "index-unit-output-path" : "/KardiyoApp.build/Debug-iphonesimulator/KardiyoApp.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "llvm-bc" : "/Users/baris.karapelit/KardiyoApp/build/Build/Intermediates.noindex/KardiyoApp.build/Debug-iphonesimulator/KardiyoApp.build/Objects-normal/arm64/GeneratedAssetSymbols.bc",
+    "object" : "/Users/baris.karapelit/KardiyoApp/build/Build/Intermediates.noindex/KardiyoApp.build/Debug-iphonesimulator/KardiyoApp.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "swift-dependencies" : "/Users/baris.karapelit/KardiyoApp/build/Build/Intermediates.noindex/KardiyoApp.build/Debug-iphonesimulator/KardiyoApp.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftdeps",
+    "swiftmodule" : "/Users/baris.karapelit/KardiyoApp/build/Build/Intermediates.noindex/KardiyoApp.build/Debug-iphonesimulator/KardiyoApp.build/Objects-normal/arm64/GeneratedAssetSymbols~partial.swiftmodule"
+  }
+}
